@@ -1,0 +1,10 @@
+C:\Projects\New Project\cloneMailing\Mailing\bin\Debug\Mailing.exe.config
+C:\Projects\New Project\cloneMailing\Mailing\bin\Debug\Mailing.exe
+C:\Projects\New Project\cloneMailing\Mailing\bin\Debug\Mailing.pdb
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.csprojAssemblyReference.cache
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.frmMain.resources
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.Properties.Resources.resources
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.csproj.GenerateResource.cache
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.csproj.CoreCompileInputs.cache
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.exe
+C:\Projects\New Project\cloneMailing\Mailing\obj\Debug\Mailing.pdb
